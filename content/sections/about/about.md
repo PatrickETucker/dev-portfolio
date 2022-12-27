@@ -1,14 +1,16 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: '../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg'
+imageAlt: 'About Gatsby Theme Portfolio Minimal'
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I am a Transactional Fraud Analyst at Zappos.com looking to follow my passion into a career in tech.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+During my time at Zappos, I have participated in a mini Front End Bootcamp, worked as a Manual QA Apprentice, and am always on the hunt to create the next tool or automated process for my team.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+As a QA Apprentice, I tested our bottom funnel experience (cart, checkout, and account pages) and took part in the development cycle of 3+ major features. I also learned to write automated test scripts in JavaScript and deployed our subsidiary websites via AWS and Jenkins.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+After finishing my QA program, I wanted to double down on my career, and that led me to the full stack Java program from which I graduated in November 2022.
+
+I am now looking for my first tech role as a developer and appreciate you taking a look at my projects below.
 
 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash

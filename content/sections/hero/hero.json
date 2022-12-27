@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hello, I'm Patrick",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/profile.jpeg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "Full Stack Java Developer",
+    "suffix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I love learning new things 🎓 finding solutions to problems 🔎 and making strange sounds on my guitar 🎸",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "mail"],
+    "showIcons": true
   }
 }
