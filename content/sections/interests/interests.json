@@ -3,126 +3,126 @@
     {
       "label": "Java",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/java.png",
         "alt": ""
       }
     },
     {
       "label": "Spring Boot",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/spring-boot.png",
         "alt": ""
       }
     },
     {
       "label": "SQL",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/sql.png",
         "alt": ""
       }
     },
     {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
       "label": "Git",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/git.png",
         "alt": ""
       }
     },
     {
       "label": "HTML",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/html5.png",
         "alt": ""
       }
     },
     {
       "label": "CSS",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/css.png",
         "alt": ""
       }
     },
     {
       "label": "Bootstrap",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/bootstrap.png",
         "alt": ""
       }
     },
     {
       "label": "Jest",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "PostgreSQL",
-      "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/jest.webp",
         "alt": ""
       }
     },
     {
       "label": "JUnit",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/junit.png",
         "alt": ""
       }
     },
     {
-      "label": "IntelliJ",
+      "label": "PostgreSQL",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "VS Code",
-      "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/postgresql.webp",
         "alt": ""
       }
     },
     {
       "label": "pgAdmin",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/postgresql.webp",
+        "alt": ""
+      }
+    },
+    {
+      "label": "IntelliJ",
+      "image": {
+        "src": "../../images/intellij.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "VS Code",
+      "image": {
+        "src": "../../images/vscode.png",
         "alt": ""
       }
     },
     {
       "label": "Postman",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/postman.png",
         "alt": ""
       }
     },
     {
       "label": "Insomnia",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/insomnia.png",
         "alt": ""
       }
     },
     {
       "label": "Charles Proxy",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/charles.png",
         "alt": ""
       }
     }
